@@ -1,6 +1,6 @@
-!#/bin/bash
-readonly MOCK=~/Pictures/email_sent_mock.png
-readonly GEOMETRY='601x362'
+#!/bin/bash
+readonly MOCK=~/Pictures/redeem_mock.png
+readonly GEOMETRY='601x428'
 
 google-chrome $1 &
 sleep 7
